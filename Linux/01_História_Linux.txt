@@ -1,0 +1,24 @@
+# Breve introdução à história do Linux
+
+- Origem: Unix - BSD - Linux
+
+- Autores: Linus Torvalds - Kernel
+
+- Links para consultar: Wikipedia ( português do Brasil )
+( existe mais  matéria de leitura em Inglês sendo a língua original ) 
+
+- Licença: GNU GPL - Richard Stallman
+
+	i. Unix (pago) - ClosedSource / Código Fechado / Proprietário
+	y. BSD (gratuito) - OpenSource / Código Aberto 
+	x. Linux (gratuito) - OpenSource / Código Aberto
+
+- Curiosidades e Críticas: 
+	
+	i. Não havia portabilidade
+	y. Não havia controlo de qualidade
+	x. Havia uma incompatibilidade entre o Linux e os fabricantes de Hardware
+	-
+	Intel / AMD
+	-
+	Competitividades: Microsoft Windows / Linux

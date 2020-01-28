@@ -1,0 +1,11 @@
+cd /usr/share/doc/* E cd /usr/share/man/*
+man cd
+man ls
+man mkdir
+man whereis
+man sh
+man clear
+man whoami
+man pwd 
+man touch
+man openrc

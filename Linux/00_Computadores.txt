@@ -1,0 +1,15 @@
+# Computadores
+
+# PC - Personal Computer aka CP - Computador Pessoal
+
+# MotherBoard: Natureza
+
+#Fonte: Corpo 
+
+#CPU: Cérebro
+#Memória: Parte do Cérebro - Memória volátil
+#Disco: Memória Estática. 
+#Placa Gráfica: Olhos - Permitem ver ( grafismo )
+#Placa de Rede: Escrever / Ler / Falar 
+
+Ass: Oscar FM

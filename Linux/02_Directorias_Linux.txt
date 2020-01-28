@@ -1,0 +1,17 @@
+Raíz: / 
+
+/bin/* -> Contém comandos padrão (de acesso a todos os utilizadores)
+/boot/* -> Contém os ficheiros necessários para o sistema Linux arrancar.
+/etc/* -> Contém ficheiros de configuração do sistema. 
+/home/* -> Pasta usada para os utilizadores da Máquina. 
+/dev/* -> Contém "nós" virtualizados do hardware.
+/lib/* -> Contém as chamadas Librarias do Linux.
+/mnt/* -> Pasta usada para lincar novos dispositivos de memória estática. 
+/proc/* -> Estrutura hierarquica de dispositivos da Máquina.
+/root/* -> Pasta dedicada inteiramente ao utilizador "root" (administrador)
+/sbin/* -> contém comandos padrão de administração do sistema.
+/sys/* -> Pseudo-sistema de ficheiros criados pelo Kernel
+/tmp/* -> Pasta usada para ficheiros temporários. 
+/usr/* -> Contém comandos padrão, comandos para administradores e documentação
+/var/* -> Contém pastas de controlo do sistema.
+

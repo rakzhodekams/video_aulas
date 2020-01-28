@@ -1,0 +1,13 @@
+sh: Não apresenta cores para pastas e ficheiros
+bash: Apresenta cores para pastas e ficheiros
+Extras:
+Comandos aprendidos:
+1. ls: lista pasta e ficheiros
+2. cd: entre e sai de directorias e subdirectorias
+3. mkdir: Cria pastas
+4. pwd: Diz qual a directoria de trabalho.
+5. clear: Limpa a tela do terminal.
+6. whereis: Diz qual a localização de uma aplicação + documentação
+7. touch: cria ficheiros sem conteúdo (vazios)
+8. chmod: Permite modificar as permissões de ficheiros e pastas.
+9. file: Determina que tipo de ficheiro um ficheiro é. extensões.

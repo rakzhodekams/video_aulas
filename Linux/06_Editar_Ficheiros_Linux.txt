@@ -1,0 +1,14 @@
+Como editar textos no Terminal em Linux
+Mais notas:
+Notas sobre o editor de text vi, localizado em /usr/bin/vi
+-
+1. Ao abrir o editor de texto "vi", caso o editor de texto já tenha
+conteúdo, as teclas l,k,j,h, servem para "navegar" pelos caractéres 
+existentes nesse documento. 
+2. Caso seja necessário acrescentar texto, usa-se a tecla do
+caractér i para inserir conteúdo. 
+3. Depois de criar conteúdo, usa-se a tecla ESC e podemos usar a 
+linha de execução de comandos : 
+4. :help para ver mais opções no uso deste editor de texto.
+5. :w para gravar / salvar documento.
+6. :q para sair do editor de texto.
