@@ -1,0 +1,11 @@
+chmod - aplicação que serve para modificar permissões dos ficheiros
+
+100 - serve para aplicar permissão de execussão
+200 - serve para aplicar permissão de escrita
+400 - serve para aplicar permissão de leitura
+
+123
+
+1 - refere a permissão do utilizador
+2 - refere a permissão dos grupos de utilizadores
+3 - refere os restantes utilizadores do sistema 
