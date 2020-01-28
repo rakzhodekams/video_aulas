@@ -1,4 +1,4 @@
-Escrever as notas sobre Internet. 
+Notas sobre a configuração de rede em Linux
 
 1. /etc/hosts (127.0.0.1) - beats
 2. ifconfig / ip 
