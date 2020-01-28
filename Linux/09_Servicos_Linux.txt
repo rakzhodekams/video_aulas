@@ -1,0 +1,7 @@
+A gestão de serviços depende o gestor de serviços que usamos. 
+
+Os mais populares são o "systemd" e o "openrc"
+
+No nosso caso usamos o "openrc" 
+
+man openrc
