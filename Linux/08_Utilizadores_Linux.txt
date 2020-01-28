@@ -1,0 +1,6 @@
+root - super utilizador ( tem permissões para fazer o que quiser ( tipo um
+deus )) 
+
+Para adicionar novos utilizadores usar: man useradd 
+
+Para remover antigos utilizadores user: man userdel 
