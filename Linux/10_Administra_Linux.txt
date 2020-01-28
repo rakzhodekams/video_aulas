@@ -1,0 +1,9 @@
+Explorar o conteúdo das seguintes pastas: 
+
+/etc/
+
+/etc/init.d
+
+/usr/src/linux (kernel)
+
+/var/
