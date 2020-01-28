@@ -2,11 +2,14 @@ Notas sobre a configuração de rede em Linux
 
 1. /etc/hosts (127.0.0.1) - beats
 2. ifconfig / ip 
+	man ip
+	man ifconfig
 3. Placas de Rede 
 4. Google / duckduckgo / * 
 5. Routers: IP (estático) | IP (dinámico)
 6. IP_estáticos (10.0.0.1/255) (192.168.1.1/255)
 7. dhcpd (daemon): 68
+	dhcpcd eth0 
 8. local - google: 80 / 445 ( HTTP / SSL ) 
 9. Protocolos de Comunicação: (1 60000)
 10. E-mail: IMAP / SMTP / POP
