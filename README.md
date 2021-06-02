@@ -72,7 +72,17 @@
 
 [Gentoo-Linux - Parte 16 - Analogia das Falhas de Segurança](https://youtu.be/cseLIj7JJkI)
 
-[Gentoo-Linux - Parte 17 - Segurança e Actualizações] ()
+[Gentoo-Linux - Parte 17 - Introdução as IPTables](https://youtu.be/K98UNwL6h2M)
+
+[Gentoo-Linux - Parte 18 - Primeiros Passos com IPTables](https://youtu.be/w3wzbjti9mE)
+
+[Gentoo-Linux - Parte 19 - Scripts de IPTables](https://youtu.be/mDaltw32pv4)
+
+[Gentoo-Linux - Parte 20 - Configuração das Ligações SSH](https://youtu.be/H9vVcw79AWI)
+
+[Gentoo-Linux - Parte 21 - Configuração do Cliente de Email](https://youtu.be/9guKJ9he7Zo)
+
+[Gentoo-Linux - Parte 22 - Em Referência da Documentação](https://youtu.be/ey6j6omrmzA)
 
 # git
 
@@ -95,3 +105,4 @@
 [Macros no Vim - Parte 01](https://youtu.be/VGbbALTDQJg)
 
 [Macros no Vim - Parte 02](https://youtu.be/AU-VNFsNjq8)
+
