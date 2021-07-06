@@ -1,0 +1,88 @@
+# Instalação do Gentoo Linux em Video | Inicio
+Gentoo-Linux - Parte 00 - Breve Introdução
+Gentoo-Linux - Parte 01 - Preparação - VirtualBox
+Gentoo-Linux - Parte 02 - Arranque do ISO
+Gentoo-Linux - Parte 03 - Partições, formatação e mount
+Gentoo-Linux - parte 04 - Adicionar ficheiros base
+Gentoo-Linux - Parte 05 - Ficheiros de configuração
+Gentoo-Linux - Parte 06 - Perfis, chroot, password e update
+Gentoo-Linux - Parte 07 - Programas e configurações necessárias
+Gentoo-Linux - Parte 08 - Configurar e Instalar o Kernel
+Gentoo-Linux - Parte 09 - Configurar Grub, editar fstab
+Gentoo-Linux - Parte 10 - Instalar Grub e reiniciar
+Gentoo-Linux - Parte 11 - Instalar Ferramentas úteis
+Gentoo-Linux - Parte 12 - Recompilação do Kernel 
+Gentoo-Linux - Parte 13 - Instalação de IPTables e sistemas de Log
+Gentoo-Linux - Parte 14 - Sobre a Segurança e as 
+Gentoo-Linux - Parte 15 - A Dualidade da Segurança
+	> Video Extra: Falhas de Segurança < 
+Gentoo-Linux - Parte 16 - Introdução às IPTables
+Gentoo-Linux - Parte 17 - IPTables: Primeiros Passos
+Gentoo-Linux - Parte 18 - IPTables: Scripts
+
+Gentoo-Linux - Parte 19 - Configuração das ligações SSH
+Gentoo-Linux - Parte 20 - Configuração de Certificados GPG
+Gentoo-Linux - Parte 21 - Instalação e Configuração do Cliente de Email
+Gentoo-Linux - Parte 22 - Documentação Offline
+Gentoo-Linux - Parte 23 - Demonstração do Client de Email
+
+
+# Instalação do Gentoo Linux em Video | Fim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instalar software adicional: 
+	a. software de Análise de Rede
+		- Whois, tcpdump, traceroute, strace
+	b. software de segurança
+		- sec-policy (SELinux), IPTables, gpg, ssh, sudo, keychains
+	c. software de monitorização do sistema e rede
+		- Nmap, Logcheck, Squid, Snort,  AIDE, Chkrootkit
+	d. software de teste de segurança
+		- kali linux software
+	e. software util de internet
+		- sendmail, elinks, rsstail, abook, mutt 
+	f. software de programador
+		- git, tig, 
+	g. software util de utilização local
+		- htop, calcurse, tmux, vim, ranger
+	h. software the isolação
+		- jail, firejail
+	
+	
+
+# Definição Global das políticas do SELinux para o utilizador gentoostudent
+semanage login -l 
+semanage login -a -s user_u gentoostudent
+setsebool -P gentoostudent on
+semodule -B
+- 
+semodule -l | less 
+semanage boolean -l | less
+getsebool name
+getsebool name on / off
+-
+sestatus
+getenforce
+setenforce
+
+
